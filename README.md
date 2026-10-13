@@ -16,9 +16,10 @@ Windows VR games run under Wine with D3D11 translated to Metal, a custom OpenXR 
 captures every frame, and hardware H.264 streams it to the stock ALVR client on your headset -
 with full 6DoF tracking, controllers, haptics, and game audio coming back the other way.
 
-> **Free 7-day preview.** Everything works for one week from first launch. To keep going, enter a
-> license key in the app to unlock the latest version - support me on **Patreon (coming soon)** to
-> get your key. New preview releases also reset the window.
+> **Free 7-day trial.** Everything works for one week from first launch. To keep going, enter a
+> license key in the app to unlock the latest version - support me on **Patreon** to
+> get your key. New preview releases also reset the window. Alternatively you have
+> MoltenVR Free which has a limited resolution and limited framerate but works forever.
 
 **Join the [MoltenVR Discord](https://discord.gg/dGQRVw6XZD)** for support, announcements, and early-access builds.
 
